@@ -1,2 +1,2 @@
 # Calculator
-This project is to make a simple calculator with Java EE.
+This project is to make a simple calculator with Java ME.
